@@ -6,12 +6,12 @@ Fill in every field below before your first commit. This file is how instructors
 
 | Field | Your Answer |
 |-------|-------------|
-| Full Name | |
-| GitHub Username | |
-| Email Address | |
-| Phone / WhatsApp | |
+| Full Name |Valentine Ezeibe |
+| GitHub Username | valentineezeibe04|
+| Email Address |valentineezeibe04@gmail.com |
+| Phone / WhatsApp |+234 904 540 2395 |
 | Cohort | Havilah Club Internship — Cohort |
-| Programme Start Date | |
+| Programme Start Date |7th september 2026 |
 | LinkedIn Profile | |
 
 ---
@@ -19,8 +19,7 @@ Fill in every field below before your first commit. This file is how instructors
 ## Personal Learning Objective
 
 Write 2–3 sentences describing what you specifically want to be able to do by the end of the 8 weeks.
-
-> Replace this line with your learning objective.
+> After this 8 weeks programme my target is to be good at python and AI Automation 
 
 ---
 
